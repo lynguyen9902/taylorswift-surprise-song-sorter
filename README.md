@@ -7,7 +7,7 @@
     <style>
         body {
             width: 100%;
-            max-width: 650px;
+            max-width: 600px;
             margin: 0 auto;
             font-family: 'Times New Roman', serif;
             background-color: #f0f8ff;
