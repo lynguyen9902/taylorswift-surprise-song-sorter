@@ -7,7 +7,7 @@
     <style>
         body {
             width: 100%;
-            max-width: 700px;
+            max-width: 500px;
             margin: 0 auto;
             font-family: 'Times New Roman', serif;
             background-color: #f0f8ff;
@@ -24,17 +24,17 @@
             border-spacing: 5px 5px;
         }
         #leftField, #rightField {
-            width: 250px;
-            height: 150px;
-            min-width: 250px;
-            max-width: 250px;
+            width: 200px;
+            height: 200px;
+            min-width: 150px;
+            max-width: 150px;
             min-height: 150px;
             max-height: 150px;
             cursor: pointer;
             text-align: center;
         }
         .middleField {
-            width: 200px;
+            width: 100px;
             height: 70px;
             border: 1px solid #000;
             cursor: pointer;
@@ -228,7 +228,7 @@
             var sameRank = 1;
             var str = "";
 
-            str += "<table style=\"width:695px; font-size:18px; line-height:120%; margin-left:auto; margin-right:auto; border:1px solid #000; border-collapse:collapse\" align=\"center\">";
+            str += "<table style=\"width:495px; font-size:18px; line-height:120%; margin-left:auto; margin-right:auto; border:1px solid #000; border-collapse:collapse\" align=\"center\">";
             str += "<tr><td style=\"color:#fff1f4; background-color:#000; text-align:center;\">rank</td><td style=\"color:#fff1f4; background-color:#000; text-align:center;\">song</td></tr>";
 
             for (var i = 0; i < namMember.length; i++) {
