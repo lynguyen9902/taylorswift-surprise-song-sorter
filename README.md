@@ -280,7 +280,7 @@
     <p class="instructions">
         <b>welcome to the eras' tour surprise song sorter.</b><br />
         please pick the song you like more. please note that choosing "i like both" or "skip for now" frequently will negatively affect your results. <br />
-        even if you make a mistake, do NOT click back page because all progress will be discarded.<br />
+        even if you make a mistake, do NOT click back page. all progress will be discarded.<br />
         made by cln (dec 2024) as consulted the work of <a href="https://biasorter.tumblr.com/">biasorter</a> and <a href="https://jobazzle.tumblr.com/">jobazzle</a>.<br />
     </p>
     <table id="mainTable" align="center">
