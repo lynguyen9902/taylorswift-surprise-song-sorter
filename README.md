@@ -24,10 +24,10 @@
             border-spacing: 5px 5px;
         }
         #leftField, #rightField {
-            width: 300px;
+            width: 250px;
             height: 150px;
-            min-width: 300px;
-            max-width: 300px;
+            min-width: 250px;
+            max-width: 250px;
             min-height: 150px;
             max-height: 150px;
             cursor: pointer;
