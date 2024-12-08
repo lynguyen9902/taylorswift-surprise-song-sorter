@@ -26,7 +26,10 @@
         #leftField, #rightField {
             width: 300px;
             height: 150px;
-            border: 1px solid #000;
+            min-width: 300px;
+            max-width: 300px;
+            min-height: 150px;
+            max-height: 150px;
             cursor: pointer;
             text-align: center;
         }
